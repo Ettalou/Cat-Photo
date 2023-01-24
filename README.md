@@ -11,6 +11,6 @@ free code camp
         <a href="https://freecatphotoapp.com"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
       </section>
         <section>
-        <h2>Cat Lists</h2> n  
+        <h2>Cat Lists</h2>
         <h3>Things cats love:</h3>
       </section>
